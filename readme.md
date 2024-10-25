@@ -88,8 +88,9 @@ HEAD -- это голова.
 ```
 
 
-https://github.com/user-attachments/assets/a2cc43d5-71f1-4a0c-956f-72532184d5b2
 
+
+https://github.com/user-attachments/assets/468b5471-4396-4c8a-b420-4451b5e3d46b
 
 
 -------
